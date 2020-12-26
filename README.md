@@ -1,3 +1,3 @@
 # HorizentalMenu
 
-![screenshot](screenshot.png)
+![Screenshot](screenshot.png)
