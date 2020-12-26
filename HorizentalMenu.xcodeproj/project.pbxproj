@@ -20,6 +20,8 @@
 		A455F66A2594FBC900C65E0A /* MenuItemCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455F6682594FBC900C65E0A /* MenuItemCollectionViewCell.swift */; };
 		A455F66B2594FBC900C65E0A /* MenuItemCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A455F6692594FBC900C65E0A /* MenuItemCollectionViewCell.xib */; };
 		A455F67025973C9B00C65E0A /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = A455F66F25973C9B00C65E0A /* screenshot.png */; };
+		A455F6792597457300C65E0A /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A455F6772597457300C65E0A /* LICENSE */; };
+		A455F67A2597457300C65E0A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A455F6782597457300C65E0A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +61,8 @@
 		A455F6682594FBC900C65E0A /* MenuItemCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemCollectionViewCell.swift; sourceTree = "<group>"; };
 		A455F6692594FBC900C65E0A /* MenuItemCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MenuItemCollectionViewCell.xib; sourceTree = "<group>"; };
 		A455F66F25973C9B00C65E0A /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
+		A455F6772597457300C65E0A /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		A455F6782597457300C65E0A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +93,8 @@
 		A455F61B2594FB0500C65E0A = {
 			isa = PBXGroup;
 			children = (
+				A455F6772597457300C65E0A /* LICENSE */,
+				A455F6782597457300C65E0A /* README.md */,
 				A455F6262594FB0500C65E0A /* HorizentalMenu */,
 				A455F63D2594FB0700C65E0A /* HorizentalMenuTests */,
 				A455F6482594FB0700C65E0A /* HorizentalMenuUITests */,
@@ -257,8 +263,10 @@
 				A455F67025973C9B00C65E0A /* screenshot.png in Resources */,
 				A455F6342594FB0600C65E0A /* LaunchScreen.storyboard in Resources */,
 				A455F66B2594FBC900C65E0A /* MenuItemCollectionViewCell.xib in Resources */,
+				A455F6792597457300C65E0A /* LICENSE in Resources */,
 				A455F6312594FB0600C65E0A /* Assets.xcassets in Resources */,
 				A455F62F2594FB0500C65E0A /* Main.storyboard in Resources */,
+				A455F67A2597457300C65E0A /* README.md in Resources */,
 				A455F6642594FB5400C65E0A /* HorizentalMenuView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
